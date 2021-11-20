@@ -1,2 +1,2 @@
 # Course-Dea-Aprizal
-Course JS KK
+Course JS Pertamaku
